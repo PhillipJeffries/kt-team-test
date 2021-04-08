@@ -1,11 +1,3 @@
-trello clone 1
-13:28 fullWidth?
-
-39:00
-
-trello clone 2
-35:00
-
 
 
 # Getting Started with Create React App
